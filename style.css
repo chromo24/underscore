@@ -43,6 +43,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	12.2 Galleries
 --------------------------------------------------------------*/
 @import url(layouts/sidebar-content.css);
+@import url(theme.css);
 
 /*--------------------------------------------------------------
 1.0 Normalize
